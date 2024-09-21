@@ -1,5 +1,7 @@
 # Sveltekit AI chatbot for feature flags
 
+![Screenshot of the chatbot's UI](image.png)
+
 Powered by
 
 - [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte)
